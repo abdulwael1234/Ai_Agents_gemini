@@ -1,0 +1,6 @@
+description = "Check include guards in C headers"
+prompt = """
+Activate the `header-guards` skill and follow it exactly. If the skill is not available, say so and stop.
+
+Request: {{args}}
+"""
